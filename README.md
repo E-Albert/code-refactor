@@ -1,4 +1,4 @@
-# Code Refractor Homework
+# Code Refactor Homework
 
 ## Description
 
@@ -16,4 +16,4 @@ Horiseon is a company that prioritizes in making your search engine more optimal
 
 ![Screenshot of Website](./assets/images/website_snapshot.png)
 
-Link to Website: https://e-albert.github.io/code-refractor/
+Link to Website: https://e-albert.github.io/code-refactor/
